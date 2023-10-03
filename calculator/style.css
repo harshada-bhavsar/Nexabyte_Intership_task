@@ -1,0 +1,28 @@
+body{
+    background-color: #0b3f4c;
+}
+.calculator {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 150px;
+    padding: 20px;
+    background-color: #2a96b1;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.btn {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: #ddd;
+}
